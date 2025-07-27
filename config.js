@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: '',
-			icon: '',
-			link: '',
+			name: 'Amazon',
+			icon: 'shopping-basket',
+			link: 'https://www.amazon.co.uk/',
 		},
 		{
 			id: '4',
@@ -83,9 +83,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Amazon',
-			icon: 'shopping-basket',
-			link: 'https://www.amazon.co.uk/',
+			name: 'Netflix',
+			icon: 'tv',
+			link: 'https://www.netflix.com/',
 		},
 	],
 
