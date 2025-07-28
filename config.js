@@ -64,7 +64,7 @@ const CONFIG = {
 			link: 'https://old.reddit.com/',
 		},
 		{
-			id: '3',
+			id: '5',
 			name: 'Amazon',
 			icon: 'shopping-basket',
 			link: 'https://www.amazon.co.uk/',
@@ -76,7 +76,7 @@ const CONFIG = {
 			link: 'https://www.youtube.com/',
 		},
 		{
-			id: '5',
+			id: '3',
 			name: 'Twitch',
 			icon: 'twitch',
 			link: 'https://www.twitch.tv/',
