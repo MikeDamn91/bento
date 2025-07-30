@@ -53,39 +53,39 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Gmail',
-			icon: 'mail',
-			link: 'https://mail.google.com/mail/u/0/',
-		},
-		{
-			id: '2',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://old.reddit.com/',
-		},
-		{
-			id: '3',
-			name: 'Amazon',
-			icon: 'shopping-basket',
-			link: 'https://www.amazon.co.uk/',
-		},
-		{
-			id: '4',
-			name: 'YouTube',
+			name: 'Youtube',
 			icon: 'youtube',
 			link: 'https://www.youtube.com/',
 		},
 		{
-			id: '5',
+			id: '2',
 			name: 'Twitch',
 			icon: 'twitch',
 			link: 'https://www.twitch.tv/',
 		},
 		{
-			id: '6',
+			id: '3',
 			name: 'Netflix',
 			icon: 'tv',
 			link: 'https://www.netflix.com/',
+		},
+		{
+			id: '4',
+			name: 'Reddit',
+			icon: 'glasses',
+			link: 'https://old.reddit.com/',
+		},
+		{
+			id: '5',
+			name: 'Gmail',
+			icon: 'mail',
+			link: 'https://mail.google.com/mail/u/0/',
+		},
+		{
+			id: '6',
+			name: 'Amazon',
+			icon: 'shopping-basket',
+			link: 'https://www.amazon.co.uk/',
 		},
 	],
 
