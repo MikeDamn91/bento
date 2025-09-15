@@ -139,20 +139,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Apple Music',
-					link: 'https://music.apple.com/gb/new',
-				},
-				{
-					name: 'Podcast',
-					link: 'https://pocketcasts.com/podcasts',
-				},
-				{
 					name: 'ChatGPT',
 					link: 'https://chatgpt.com/',
 				},
 				{
 					name: 'Gemini',
 					link: 'https://gemini.google.com/app',
+				},
+				{
+					name: 'Claude',
+					link: 'https://claude.ai/',
+				},
+				{
+					name: 'Perplexity',
+					link: 'https://www.perplexity.ai/',
 				},
 			],
 		},
