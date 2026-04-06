@@ -54,13 +54,13 @@ const CONFIG = {
 		{
 			id: '1',
 			name: 'Youtube',
-			icon: 'youtube',
+			icon: 'circle-play',
 			link: 'https://www.youtube.com/',
 		},
 		{
 			id: '2',
 			name: 'Twitch',
-			icon: 'twitch',
+			icon: 'gamepad-2',
 			link: 'https://www.twitch.tv/',
 		},
 		{
